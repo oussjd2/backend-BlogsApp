@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57edc392-7b79-4701-ab6f-c111eb3176a0" name="Changes" comment="Correction">
+      <change afterPath="$PROJECT_DIR$/controllers/BlogPostController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/BlogPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/0e517869d1164d5c1675205ed8c2197d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/128d24d33138fdcca3e1b4d7e25d9064" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/23446c826d9d0f541d5f123dc400f553" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2b8fa199e92f468c6187130534873567" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2e2ef7ce8b5d6b39904b65ad63020b84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2e93a5d5ee92db292156559b0ba80ca9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3c436431e2b268f4f4ad9493933b0393" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3fb0e1f1b60e6d5cd2eb7b8ad55350bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/407d5902910f8c50ae98dc0036a8c148" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/4963baa9bad8e003a28661a4c4876ee1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/4ea79d4f9710577abda2a4bc1716a1e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/591035244e50b78f6cce06e37bcdb01e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/6546ca6c5e4ceebc6924e20464a4a9ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/6af212c3ebbc0f867481013201508d07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/7281f56195f6195bd6fd59e7520ec04b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/76c0d3d2852125a5755a5639b11fc16e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/8f45501266eebd11dcf2a202a7471b11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot (14).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot (15).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot (16).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Screenshot (21).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ad899742a4ff81e71aadabcd9a702a23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/b0b89418b9e345722253728abbedbb9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/b517eeac415d768bc3379c629ac9b4f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c948c88b5642ecd7acfa339ed45abfc9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c9e0f08cef33c8f2321c297196db6212" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dd8c2b5e469c1d44113fa9e89b09453f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/eff121f7916e1b7d45afbb3759c25947" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fd787aee63076d920e8e12655187e2c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/BlogPostRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="83fb793b-357f-419c-b1bc-7c879bdb0383" />
+        <option name="url" value="https://github.com/Saif-Yahyaoui/PDM-NodeJS" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Xm2GubOwOsVtUPsxpGUziwSWuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Oussama/IdeaProjects/PDM-NodeJS/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oussama\IdeaProjects\PDM-NodeJS\public\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57edc392-7b79-4701-ab6f-c111eb3176a0" name="Changes" comment="" />
+      <created>1699219841916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699219841916</updated>
+      <workItem from="1717898134016" duration="3498000" />
+      <workItem from="1717982484869" duration="158000" />
+      <workItem from="1717984744268" duration="7296000" />
+      <workItem from="1718052239004" duration="14328000" />
+      <workItem from="1718086873005" duration="4000" />
+      <workItem from="1718131535374" duration="9092000" />
+    </task>
+    <task id="LOCAL-00001" summary="Correction">
+      <created>1699219987983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699219987983</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Correction">
+      <created>1699220137876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699220137876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction" />
+  </component>
+</project>
